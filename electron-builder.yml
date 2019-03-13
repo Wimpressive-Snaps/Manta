@@ -27,3 +27,4 @@ linux:
   target:
     - deb
     - AppImage
+    - snap
